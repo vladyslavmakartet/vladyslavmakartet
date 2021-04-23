@@ -27,7 +27,7 @@ You can find me on [![LinkedIn][1.1]][1].
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vladyslavmakartet&hide=prs,contribs,stars,issues&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/vladyslavmakartet/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavmakartet&layout=compact&hide=QMake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavmakartet&hide=QMake&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/vladyslavmakartet/shell_script">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladyslavmakartet&layout=compact&repo=shell_script&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
