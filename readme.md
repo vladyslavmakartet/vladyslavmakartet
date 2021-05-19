@@ -34,7 +34,7 @@ You can find me on [![LinkedIn][1.1]][1].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladyslavmakartet&layout=compact&repo=shell_script&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/vladyslavmakartet/recipe_planner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladyslavmakartet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&repo=recipe_planner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vladyslavmakartet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&repo=recipe_planner_qt" />
 </a>
 <!--
 **vladyslavmakartet/vladyslavmakartet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
