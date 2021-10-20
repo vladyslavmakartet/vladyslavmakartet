@@ -10,7 +10,7 @@
 [1]: https://www.linkedin.com/in/vladyslav-makartet-4712ba196/
 [2]: mailto:vladyslav.makartet@gmail.com
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Vladyslav Makartet or just Vlad. I'm a 4th-year student at Warsaw University of Technology studying computer science. Currently doing my internship as a software developer in test at Grand Parade in Kraków. &#128521;
+My name is Vladyslav Makartet or just Vlad. I'm a 4th-year student at Warsaw University of Technology studying computer science. Currently working as a Junior Data Scientist at Grand Parade in Kraków. &#128521;
 ###
 You can find me on [![LinkedIn][1.1]][1].
 # &#128736; Technologies & Tools
