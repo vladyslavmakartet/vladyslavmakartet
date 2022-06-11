@@ -9,7 +9,7 @@
 
 [1]: https://www.linkedin.com/in/vladyslav-makartet-4712ba196/
 [2]: mailto:vladyslav.makartet@gmail.com
-## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 My name is Vladyslav Makartet or just Vlad. I'm a nearly graduate of Warsaw University of Technology studying computer science. Currently looking for a junior position in the field of Software Development or any related. So if you have any proposal, let me know &#128521;
 ###
 You can find me on [![LinkedIn][1.1]][1].
