@@ -7,12 +7,12 @@
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/vladyslav-makartet-4712ba196/
+[1]: https://www.linkedin.com/in/vladyslavmakartet/
 [2]: mailto:vladyslav.makartet@gmail.com
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-My name is Vladyslav Makartet or just Vlad. I'm a Computer Science Graduate of Warsaw University of Technology. Currently looking for a junior position in the field of Software Development or any related. So if you have any proposal, let me know &#128521;
+Accomplished Software Engineer with over two years of professional experience specializing in full-stack design and development, implementing innovative solutions that optimize efficiency and streamline operations and refactoring legacy code. Adept at translating project requirements into high-quality, scalable software. Known for contributing effectively within cross-functional teams, delivering top-notch results and exceeding expectations. Skilled in documenting and validating system components, applications, and architectural designs, leading to accelerated project delivery and improved operational precision.
 ###
-You can find me on [![LinkedIn][1.1]][1].
+You can find me on [![LinkedIn][1.1]][1]
 # &#128736; Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
