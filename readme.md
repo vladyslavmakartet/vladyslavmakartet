@@ -10,7 +10,7 @@
 [1]: https://www.linkedin.com/in/vladyslavmakartet/
 [2]: mailto:vladyslav.makartet@gmail.com
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-Accomplished Software Engineer with over two years of professional experience specializing in full-stack design and development, implementing innovative solutions that optimize efficiency and streamline operations and refactoring legacy code. Adept at translating project requirements into high-quality, scalable software. Known for contributing effectively within cross-functional teams, delivering top-notch results and exceeding expectations. Skilled in documenting and validating system components, applications, and architectural designs, leading to accelerated project delivery and improved operational precision.
+Accomplished Software Engineer with over two years of professional experience specializing in designing and developing innovative solutions that optimize efficiency and streamline operations. Adept at translating project requirements into high-quality, scalable software. Known for contributing effectively within cross-functional teams, delivering top-notch results, and exceeding expectations. Skilled in documenting and validating system components, applications, and architectural designs, leading to accelerated project delivery and improved operational precision.
 ###
 You can find me on [![LinkedIn][1.1]][1]
 # &#128736; Technologies & Tools
